@@ -4,8 +4,8 @@ subtitle: Linux & Open Source Tilburg
 comments: false
 ---
 
-**LOSTilburg** bestaat sinds januari 2018 en organiseert maandelijks een bijeenkomst over Linux en Open Source.  
-De bijeenkomsten zijn iedere **tweede maandag van de maand**. 
+**LOSTilburg** bestaat sinds januari 2018 en organiseert tweemaandelijks een bijeenkomst over Linux en Open Source.  
+De bijeenkomsten zijn iedere **tweede maandag van de oneven maand**. 
 
 Linux & Open Source Tilburg is een initiatief van **Ad Hendrikx** en **Donné Brok**.
 

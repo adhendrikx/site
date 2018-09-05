@@ -4,7 +4,7 @@ subtitle: Opgericht in 2018
 date: 2018-01-08
 tags: ["oprichting", "ad hendrikx", "donne brok"]
 ---
-In meerdere steden in Nederland worden maandelijks Linux Gebruikers Groepen georganiseerd. 
+In meerdere steden in Nederland worden Linux Gebruikers Groepen georganiseerd. 
 In het zuiden van het land onder meer in [Nijmegen](https://linuxnijmegen.nl) en [Den Bosch](http://www.dblug.nl). 
 En nu dus ook in Tilburg.
 
