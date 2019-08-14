@@ -60,7 +60,7 @@ publishdir = "site"
   #telegram = "username"
 
 [[menu.main]]
-    name = "Berichten"
+    name = "Bijeenkomsten"
     url = ""
     weight = 1
 
